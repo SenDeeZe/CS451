@@ -16,9 +16,9 @@ namespace Lab4.Services
         {
             return new UserModel
             {
-                Name = "Matvei Vasyura",
-                UserName = "Matej",
-                Bio = "hi!",
+                Name = "Sergei Tareev",
+                UserName = "Tareev",
+                Bio = "wassup!",
                 Image = "https://picsum.photos/150/150"
             };
         }

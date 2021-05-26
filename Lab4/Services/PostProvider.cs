@@ -18,14 +18,14 @@ namespace Lab4.Services
             {
                 Author = user,
                 Image = "https://picsum.photos/300/300",
-                Text = "i have a new pic!",
+                Text = "Check out my new photo",
                 Date = DateTime.Now
             };
 
             var postWithoutImage = new Models.PostModel
             {
                 Author = user,
-                Text = "i have no new pics :(",
+                Text = "And i'm feeling goooood",
                 Date = DateTime.Now
             };
 
